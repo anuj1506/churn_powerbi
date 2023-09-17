@@ -1,1 +1,1 @@
-# churn_powerbi
+# Customer Churn Analysis using PowerBI
